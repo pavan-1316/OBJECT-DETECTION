@@ -1,4 +1,4 @@
 # mllearncode
-this is my first repository
+CUSTOMER CHURN PREDICTION
 <br>
 author-pavan
