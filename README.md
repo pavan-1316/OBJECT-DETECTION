@@ -1,4 +1,4 @@
 # mllearncode
-CUSTOMER CHURN PREDICTION
+OBJECT DETECTION IN IMAGE
 <br>
 author-pavan
